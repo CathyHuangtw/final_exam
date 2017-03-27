@@ -9,3 +9,8 @@ NotCherry1
 Cherry
 Not Cherry2
 
+
+newcode_line01
+newcode_line02
+newcode_line03
+
