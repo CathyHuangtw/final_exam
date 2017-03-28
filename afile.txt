@@ -12,10 +12,9 @@ this is a hotfix
 for question1
 for question1
 Answer question1.c
+
 Answer question1.c
 ans for Q1.d
-<<<<<<< HEAD
 
-=======
 ans for Q1.d
->>>>>>> 160eb23... [Q1.d] commit C4
+
