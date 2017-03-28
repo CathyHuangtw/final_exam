@@ -13,3 +13,5 @@ for question1
 for question1
 Answer question1.c
 Answer question1.c
+ans for Q1.d
+
